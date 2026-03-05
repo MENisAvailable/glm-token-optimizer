@@ -111,10 +111,10 @@ glm-token-optimizer/
 ├── requirements.txt          # Зависимости
 ├── README.md                 # Документация
 ├── examples/
-│   ├── input.txt            # Пример входного файла
-│   └── tokenizer.json       # Пример словаря токенизатора
+│   ├── tokenizer_config.json # Пример конфига словаря
+│   └── tokenizer.json        # Пример словаря токенизатора
 └── logs/
-    └── replacement_log.json # Лог выполненных замен
+    └── replacement_log.json  # Лог выполненных замен
 ```
 
 ---
